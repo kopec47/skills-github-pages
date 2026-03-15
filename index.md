@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog! Misie kolorowe
+title: Welcome to my blog! 
+Misie kolorowe
+dzisiaj cos tam zrobilem
 ---
