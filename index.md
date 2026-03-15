@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog!  Misie kolorowe;
-dzisiaj cos tam zrobilem
+title: Welcome to my blog!  Misie kolorowe
+
 ---
